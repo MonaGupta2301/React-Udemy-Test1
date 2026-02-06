@@ -10,7 +10,7 @@ function App() {
     <>
       
       <h1>This is my first React Project</h1>
-      <p>This is the heading</p>
+      <p>I would love to change this</p>
       
       
     </>
